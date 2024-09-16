@@ -16,4 +16,4 @@ the executable (.exe) and also feel free to fork this and/or do anything` becaus
 
 ^iOS is a trademark of Apple Inc., registered in the U.S. and other countries and regions.
 
-`You can anything allowed on the MIT license.
+`You can do anything allowed on the MIT license.
