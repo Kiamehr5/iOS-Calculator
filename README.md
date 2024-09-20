@@ -7,8 +7,9 @@ I have made this calculator to replicate the iOS^ Calculator in python. You can 
 
 the executable (.exe) and also feel free to fork this and/or do anything` because it is under the MIT license
  
+### How to run CalculatorS.py
 
-
+You can do this by installing python for your system at [Python's Official Website](https://www.python.org/) and running it [How to run python scripts](https://www.theknowledgeacademy.com/blog/how-to-run-python-scripts/#:~:text=To%20run%20Python%20Scripts%2C%20you,%22%20with%20the%20actual%20filename).
 
 ### Notices
 
