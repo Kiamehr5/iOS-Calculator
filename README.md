@@ -15,6 +15,6 @@ You can do this by installing python for your system at [Python's Official Websi
 
 *Division isn't included. If you want division, you can fork this repository and add it on your own (You need a Python installation to do so).
 
-^iOS is a trademark of Apple Inc., registered in the U.S. and other countries and regions.
+^iOS and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries and regions.
 
 `You can do anything allowed on the MIT license.
